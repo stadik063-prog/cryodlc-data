@@ -27,5 +27,20 @@
     "used_promo_codes": [],
     "hwid_resets_used": 0,
     "last_hwid_reset": null
+  },
+  "3": {
+    "uid": 3,
+    "telegram_id": 8156983404,
+    "username": "admin_8156983404",
+    "password": "admin_8156983404_pass",
+    "role": "Администратор",
+    "balance": 10000,
+    "subscription": "CryoDLC 1.16.5",
+    "subscription_end": null,
+    "hwid": null,
+    "registration_date": "2026-01-18 18:16:41",
+    "used_promo_codes": [],
+    "hwid_resets_used": 0,
+    "last_hwid_reset": null
   }
 }
