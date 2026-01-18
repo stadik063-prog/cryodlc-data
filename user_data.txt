@@ -1,20 +1,32 @@
 {
-  "user_1": {
-    "username": "admin",
-    "password": "admin123",
-    "uid": "001",
+  "1": {
+    "uid": 1,
+    "telegram_id": 7659742906,
+    "username": "admin_7659742906",
+    "password": "admin_7659742906_pass",
     "role": "Администратор",
-    "subscription": "VIP",
-    "subscription_end": "2025-12-31 23:59:59",
-    "hwid": null
+    "balance": 10000,
+    "subscription": "CryoDLC 1.16.5",
+    "subscription_end": null,
+    "hwid": null,
+    "registration_date": "2026-01-18 13:15:00",
+    "used_promo_codes": [],
+    "hwid_resets_used": 0,
+    "last_hwid_reset": null
   },
-  "user_2": {
-    "username": "test",
-    "password": "test123",
-    "uid": "002",
-    "role": "Пользователь",
-    "subscription": "Basic",
-    "subscription_end": "2024-10-31 23:59:59",
-    "hwid": null
+  "2": {
+    "uid": 2,
+    "telegram_id": 8156983404,
+    "username": "admin_8156983404",
+    "password": "admin_8156983404_pass",
+    "role": "Администратор",
+    "balance": 10000,
+    "subscription": "CryoDLC 1.16.5",
+    "subscription_end": null,
+    "hwid": null,
+    "registration_date": "2026-01-18 13:15:00",
+    "used_promo_codes": [],
+    "hwid_resets_used": 0,
+    "last_hwid_reset": null
   }
 }
