@@ -1,1 +1,20 @@
-
+{
+  "user_1": {
+    "username": "admin",
+    "password": "admin123",
+    "uid": "001",
+    "role": "Администратор",
+    "subscription": "VIP",
+    "subscription_end": "2025-12-31 23:59:59",
+    "hwid": null
+  },
+  "user_2": {
+    "username": "test",
+    "password": "test123",
+    "uid": "002",
+    "role": "Пользователь",
+    "subscription": "Basic",
+    "subscription_end": "2024-10-31 23:59:59",
+    "hwid": null
+  }
+}
